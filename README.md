@@ -2,6 +2,7 @@
 <h3 align="center">a passionate fullstack developer from Peru</h3>
 <ul>
   <li>💬 Ask me about <b>Vue - PHP - Nodejs</b></li>
+  <li>🌱 I’m currently learning <b>Flutter, React, CI/CD</b></li>
   <li>📫 How to reach me <b>jvizarro.ramos@gmail.com</b></li>
   <li>⚡ Fun fact <b>Make desserts 🍰 Listen to music 🎧</b></li>
  </ul>
